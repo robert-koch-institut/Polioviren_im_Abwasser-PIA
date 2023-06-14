@@ -15,14 +15,14 @@ Wörlitzer Platz 1
 ---
 
 **Zitieren**  
-Robert Koch-Institut und Umweltbundesamt (2023): Polioviren im Abwasser - PIA, Berlin: Zenodo. [DOI: 10.5281/zenodo.7680569](https://doi.org/10.5281/zenodo.7680569)  
+Robert Koch-Institut und Umweltbundesamt (2023): Polioviren im Abwasser - PIA, Berlin: Zenodo. [DOI: 10.5281/zenodo.8036435](https://doi.org/10.5281/zenodo.8036435)  
 
 
 ## Einleitung
 
 Derzeit wird in Deutschland zur Überwachung der Poliofreiheit eine syndromische Surveillance hospitalisierter Patienten mit aseptischer Meningitis/Enzephalitis und akuter schlaffer Paresen durchgeführt (Enterovirus-Surveillance, EVSurv). In der Endphase der Polioeradikation könnte jedoch zusätzlich auch die virologische Untersuchung von Abwasserproben als Frühwarnsystem eine größere Rolle spielen. Um auf die perspektivischen Veränderungen der WHO-Anforderungen adäquat reagieren zu können, wurde am NRZ PE im Rahmen eines laufenden Pilotprojekts eine Methode zum sicheren Nachweis von Polioviren aus Abwassserproben etabliert. Diese Machbarkeitsstudie erfolgt in enger Kooperation mit dem Umweltbundesamt (UBA). Seit Mai 2021 werden wöchentlich Abwasserproben aus mehreren Klärwerken einer deutschen Großstadt auf Polioviren untersucht. Dabei liefert die Anzucht auf verschiedenen Zelllinien (RD, L20B) mit anschließender Sequenzierung der proteinkodierenden VP1 Region die besten Ergebnisse.
 
-z und Entstehungskontext
+## Datensatz und Entstehungskontext
 
 Die Poliomyelitis (Polio, Kinderlähmung) ist eine durch Polioviren (Typ 1, 2, 3) verursachte Infektionskrankheit, die zu bleibenden Beeinträchtigungen der infizierten Personen führen kann. Im Jahr 1988 wurde von der WHO das Ziel ausgerufen, Polioviren global zu eradizieren. Seit dem Start dieser Global Polioeradication Initiative (GPEI) wurde mithilfe zahlreicher Maßnahmen, insbesondere der Impfung, die Zahl der Poliofälle weltweit drastisch reduziert. Aktuell sind Polioviren noch in zwei Ländern auf der Welt endemisch (Afghanistan und Pakistan). Trotz der enormen Erfolge der Eradikationsinitiative kommt es jedoch immer wieder zu Re-Importen von Poliowildviren in bereits poliofreie Länder, zuletzt nach Mosambik 2022. Doch auch vom Lebendimpfstoff abgeleitete Polioviren (vaccine derived poliovirus, VDPV) können das globale Eradikationsziel gefährden. Diese Viren können in nicht ausreichend geimpften Populationen lange Zeit unerkannt zirkulieren, sich dabei verändern und schließlich auch wieder Lähmungen hervorrufen.  
 
