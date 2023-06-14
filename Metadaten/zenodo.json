@@ -1,0 +1,96 @@
+{
+  "title": "Polioviren im Abwasser - PIA",
+  "description": "Derzeit wird in Deutschland zur Überwachung der Poliofreiheit eine syndromische Surveillance hospitalisierter Patienten mit aseptischer Meningitis/Enzephalitis und akuter schlaffer Paresen durchgeführt (Enterovirus-Surveillance, EVSurv). In der Endphase der Polioeradikation könnte jedoch zusätzlich auch die virologische Untersuchung von Abwasserproben als Frühwarnsystem eine größere Rolle spielen. Um auf die perspektivischen Veränderungen der WHO-Anforderungen adäquat reagieren zu können, wurde am NRZ PE im Rahmen eines laufenden Pilotprojekts eine Methode zum sicheren Nachweis von Polioviren aus Abwassserproben etabliert. Diese Machbarkeitsstudie erfolgt in enger Kooperation mit dem Umweltbundesamt (UBA). Seit Mai 2021 werden wöchentlich Abwasserproben aus mehreren Klärwerken einer deutschen Großstadt auf Polioviren untersucht. Dabei liefert die Anzucht auf verschiedenen Zelllinien (RD, L20B) mit anschließender Sequenzierung der proteinkodierenden VP1 Region die besten Ergebnisse.",
+  "creators": [
+    {
+      "name": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut"
+    },
+    {
+      "name": "Umweltbundesamt",
+      "affiliation": "Umweltbundesamt"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Virale Gastroenteritis- und Hepatitiserreger und Enteroviren, Fachgebiet 15",
+      "affiliation": "Robert Koch-Institut",
+      "type": "ContactPerson"
+    },
+    {
+      "name": "Mikrobiologische Risiken, Fachgebiet II 1.4",
+      "affiliation": "Umweltbundesamt",
+      "type": "ContactPerson"
+    }
+  ],
+  "keywords": [
+    "Frühwarnsystem",
+    "Early warning system",
+    "Polioviruses",
+    "Poliovirus",
+    "Poliovirus Vaccines",
+    "Poliomyelitis",
+    "Abwasserbasierte epidemiologische Überwachung",
+    "Wastewater-Based Epidemiological Monitoring",
+    "Sewage",
+    "Abwasser",
+    "Environmental Monitoring",
+    "Umweltüberwachung",
+    "Open Data",
+    "Offene Daten",
+    "Deutschland",
+    "Germany",
+    "RKI"
+  ],
+  "publication_date": "2023-06-14",
+  "version": "2023-06-14",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Gesundheitsberichterstattung",
+      "identifier": "info:ddc/22/de//614.42"
+    },
+    {
+      "term": "Epidemiologie",
+      "identifier": "info:ddc/22/de//614.4"
+    },
+    {
+      "term": "Public health surveillance",
+      "identifier": "info:ddc/22/eng//614.42"
+    },
+    {
+      "term": "Epidemiology",
+      "identifier": "info:ddc/22/eng//614.4"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Readme.md",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/[Dokumentation]_Polioviren_im_Abwasser-PIA.pdf",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDescribedBy",
+      "identifier": "https://www.github.io/robert-koch-institut/Polioviren_im_Abwasser_-_PIA",
+      "resource_type": "other"
+    }
+  ]
+}

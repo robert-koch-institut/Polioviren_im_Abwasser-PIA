@@ -1,0 +1,210 @@
+{
+  "data": {
+    "type": "studyhub_resources",
+    "attributes": {
+      "commit_button": "Submit",
+      "content_blobs": [
+        {
+          "content_type": "text/html",
+          "url": "https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA",
+          "original_filename": "Github Link"
+        }
+      ],
+      "resource": {
+        "resource_type": "Dataset",
+        "resource_type_general": "Dataset",
+        "resource_titles": [
+          {
+            "title": "Polioviren im Abwasser - PIA",
+            "title_language": "DE (German)"
+          }
+        ],
+        "resource_acronyms": [],
+        "resource_descriptions": [
+          {
+            "description": "Derzeit wird in Deutschland zur Überwachung der Poliofreiheit eine syndromische Surveillance hospitalisierter Patienten mit aseptischer Meningitis/Enzephalitis und akuter schlaffer Paresen durchgeführt (Enterovirus-Surveillance, EVSurv). In der Endphase der Polioeradikation könnte jedoch zusätzlich auch die virologische Untersuchung von Abwasserproben als Frühwarnsystem eine größere Rolle spielen. Um auf die perspektivischen Veränderungen der WHO-Anforderungen adäquat reagieren zu können, wurde am NRZ PE im Rahmen eines laufenden Pilotprojekts eine Methode zum sicheren Nachweis von Polioviren aus Abwassserproben etabliert. Diese Machbarkeitsstudie erfolgt in enger Kooperation mit dem Umweltbundesamt (UBA). Seit Mai 2021 werden wöchentlich Abwasserproben aus mehreren Klärwerken einer deutschen Großstadt auf Polioviren untersucht. Dabei liefert die Anzucht auf verschiedenen Zelllinien (RD, L20B) mit anschließender Sequenzierung der proteinkodierenden VP1 Region die besten Ergebnisse.",
+            "description_language": "DE (German)"
+          }
+        ],
+        "resource_format": "",
+        "resource_keywords": [
+          {
+            "resource_keywords_label": "Frühwarnsystem",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Early warning system",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Polioviruses",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Poliovirus",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Poliovirus Vaccines",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Poliomyelitis",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Abwasserbasierte epidemiologische Überwachung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Wastewater-Based Epidemiological Monitoring",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Sewage",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Abwasser",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Environmental Monitoring",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Umweltüberwachung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Gesundheitsberichterstattung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiologie",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Public health surveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiology",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Open Data",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Offene Daten",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Deutschland",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Germany",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "RKI",
+            "resource_keywords_label_code": ""
+          }
+        ],
+        "resource_language": [
+          "DE (German)"
+        ],
+        "resource_version": "2023-06-14",
+        "resource_web_page": "https://www.github.io/robert-koch-institut/Polioviren_im_Abwasser_-_PIA",
+        "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
+        "resource_use_rights_description": "",
+        "resource_use_rights_authors_confirmation_1": true,
+        "resource_use_rights_authors_confirmation_2": true,
+        "resource_use_rights_authors_confirmation_3": true,
+        "resource_use_rights_support_by_licencing": true,
+        "provenance": {
+          "data_source": ""
+        },
+        "roles": [
+          {
+            "role_type": "Contact person",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Fachgebiet 15",
+            "role_name_personal_family_name": "Virale Gastroenteritis- und Hepatitiserreger und Enteroviren",
+            "role_name_identifiers": []
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "info@rki.de",
+            "role_phone": "",
+            "role_affiliation_name": "Robert Koch-Institut",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Organisational",
+            "role_name_organisational": "Robert Koch-Institut"
+          },
+          {
+            "role_type": "Contact person",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_name": "Umweltbundesamt",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Personal",
+            "role_name_personal_title": "Other",
+            "role_name_personal_given_name": "Fachgebiet II 1.4",
+            "role_name_personal_family_name": "Mikrobiologische Risiken",
+            "role_name_identifiers": []
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "buergerservice@uba.de",
+            "role_phone": "",
+            "role_affiliation_name": "Umweltbundesamt",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Organisational",
+            "role_name_organisational": "Umweltbundesamt"
+          }
+        ],
+        "ids": [
+          {
+            "id_identifier": "https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA",
+            "id_date": "",
+            "id_type": "URL",
+            "id_relation_type": "describes",
+            "id_resource_type_general": "Dataset"
+          },
+          {
+            "id_identifier": "10.5281/zenodo.8036435",
+            "id_date": "",
+            "id_type": "DOI",
+            "id_relation_type": "has part",
+            "id_resource_type_general": "Dataset"
+          }
+        ]
+      }
+    },
+    "relationships": {
+      "projects": {
+        "data": [
+          {
+            "id": "1",
+            "type": "projects"
+          }
+        ]
+      }
+    }
+  }
+}

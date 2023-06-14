@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+type: dataset
+title: Polioviren im Abwasser - PIA
+abstract: >-
+  Derzeit wird in Deutschland zur Überwachung der Poliofreiheit eine
+  syndromische Surveillance hospitalisierter Patienten mit aseptischer
+  Meningitis/Enzephalitis und akuter schlaffer Paresen durchgeführt
+  (Enterovirus-Surveillance, EVSurv). In der Endphase der Polioeradikation
+  könnte jedoch zusätzlich auch die virologische Untersuchung von Abwasserproben
+  als Frühwarnsystem eine größere Rolle spielen. Um auf die perspektivischen
+  Veränderungen der WHO-Anforderungen adäquat reagieren zu können, wurde am NRZ
+  PE im Rahmen eines laufenden Pilotprojekts eine Methode zum sicheren Nachweis
+  von Polioviren aus Abwassserproben etabliert. Diese Machbarkeitsstudie erfolgt
+  in enger Kooperation mit dem Umweltbundesamt (UBA). Seit Mai 2021 werden
+  wöchentlich Abwasserproben aus mehreren Klärwerken einer deutschen Großstadt
+  auf Polioviren untersucht. Dabei liefert die Anzucht auf verschiedenen
+  Zelllinien (RD, L20B) mit anschließender Sequenzierung der proteinkodierenden
+  VP1 Region die besten Ergebnisse.
+date-released: '2023-06-14'
+keywords:
+  - Frühwarnsystem
+  - Early warning system
+  - Polioviruses
+  - Poliovirus
+  - Poliovirus Vaccines
+  - Poliomyelitis
+  - Abwasserbasierte epidemiologische Überwachung
+  - Wastewater-Based Epidemiological Monitoring
+  - Sewage
+  - Abwasser
+  - Environmental Monitoring
+  - Umweltüberwachung
+  - Gesundheitsberichterstattung
+  - Epidemiologie
+  - Public health surveillance
+  - Epidemiology
+  - Open Data
+  - Offene Daten
+  - Deutschland
+  - Germany
+  - RKI
+message: Cite me!
+url: https://www.github.io/robert-koch-institut/Polioviren_im_Abwasser_-_PIA
+license: CC-BY-4.0
+doi: 10.5281/zenodo.8036435
+authors:
+  - name: Robert Koch-Institut
+    email: info@rki.de
+  - name: Umweltbundesamt
+    email: buergerservice@uba.de
