@@ -1,0 +1,16 @@
+{
+  "name": "polioviren_im_abwasser-pia",
+  "title": "Polioviren_im_Abwasser-PIA",
+  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "resources": [
+    {
+      "name": "polioviren_im_abwasser",
+      "type": "table",
+      "path": "../../Polioviren_im_Abwasser.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Polioviren_im_Abwasser.json"
+    }
+  ]
+}
