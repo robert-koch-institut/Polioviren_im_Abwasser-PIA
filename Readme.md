@@ -83,7 +83,7 @@ Die Daten zu Anzahl und Typ der Poliovirusisolate aus Abwasserproben sind nach f
 | Klaerwerk_id |Text||Pseudonym des Klärwerks der Probenentnahme|
 | Proben_id|Text||Eindeutige Identifikationsnummer der Abwasserproben|
 |Virusisolate|Natürliche Zahl|`≥0`|Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
-| Virus_typ|Text|`Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1` |Zugeordneter Stamm und Typ der identifizierten Polioviren|
+| Virus_typ|Text|`Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1`, `NA` |Zugeordneter Stamm und Typ der identifizierten Polioviren|
 
 ### Bericht zum Pilotprojekt „PIA – Polioviren im Abwasser“
 
