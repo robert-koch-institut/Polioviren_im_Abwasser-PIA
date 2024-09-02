@@ -4,7 +4,7 @@
       "name": "Datum",
       "type": "date",
       "description": "Kalenderwoche der Probenentnahme nach ISO-8601",
-      "format": "%Y-W%U"
+      "format": "%Y-W%W"
     },
     {
       "name": "Klaerwerk_id",

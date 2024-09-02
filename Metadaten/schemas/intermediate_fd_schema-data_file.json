@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "name": "Datum",
+      "type": "string"
+    },
+    {
+      "name": "Klaerwerk_id",
+      "type": "string"
+    },
+    {
+      "name": "Proben_id",
+      "type": "string"
+    },
+    {
+      "name": "Virusisolate",
+      "type": "integer"
+    },
+    {
+      "name": "Virus_typ",
+      "type": "string"
+    }
+  ]
+}
