@@ -77,13 +77,16 @@ Die Daten zu Anzahl und Typ der Poliovirusisolate aus Abwasserproben sind nach f
 #### Variablen und Variablenausprägungen  
 
 
-| Variable | Typ | Ausprägungen | Beschreibung |
-| - | - | - | - |
-| Datum |Datum|`jjjj-Www`| Kalenderwoche der Probenentnahme nach ISO-8601 |
-| Klaerwerk_id |Text||Pseudonym des Klärwerks der Probenentnahme|
-| Proben_id|Text||Eindeutige Identifikationsnummer der Abwasserproben|
-|Virusisolate|Natürliche Zahl|`≥0`|Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
-| Virus_typ|Text|`Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1`, `NA` |Zugeordneter Stamm und Typ der identifizierten Polioviren|
+| Variable     | Typ     | Ausprägungen                                                                                                        | Beschreibung                                                     |
+|:-------------|:--------|:--------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
+| Datum        | date    | Format: `YYYY-Www`                                                                                                  | Kalenderwoche der Probenentnahme nach ISO-8601                   |
+| Klaerwerk_id | string  |                                                                                                                     | Pseudonym des Klärwerks der Probenentnahme                       |
+| Proben_id    | string  |                                                                                                                     | Eindeutige Identifikationsnummer der Abwasserproben              |
+| Virusisolate | integer | Minimum: 0                                                                                                          | Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
+| Virus_typ    | string  | Fehlende Werte: `NA`<br>Werte: `Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1` | Zugeordneter Stamm und Typ der identifizierten Polioviren        |
+
+Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_Polioviren_im_Abwasser.json`](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/frictionless_data_schema_Polioviren_im_Abwasser.json).
+
 
 ### Bericht zum Pilotprojekt „PIA – Polioviren im Abwasser“
 

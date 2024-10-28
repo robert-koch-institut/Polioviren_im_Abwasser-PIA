@@ -1,7 +1,0 @@
-| Variable     | Typ     | Ausprägungen                                                                                                        | Beschreibung                                                     |
-|:-------------|:--------|:--------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
-| Datum        | date    | Format: `%Y-W%W`                                                                                                    | Kalenderwoche der Probenentnahme nach ISO-8601                   |
-| Klaerwerk_id | string  |                                                                                                                     | Pseudonym des Klärwerks der Probenentnahme                       |
-| Proben_id    | string  |                                                                                                                     | Eindeutige Identifikationsnummer der Abwasserproben              |
-| Virusisolate | integer | Minimum: 0                                                                                                          | Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
-| Virus_typ    | string  | Fehlende Werte: `NA`<br>Werte: `Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1` | Zugeordneter Stamm und Typ der identifizierten Polioviren        |
