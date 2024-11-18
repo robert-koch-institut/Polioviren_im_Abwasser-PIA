@@ -77,6 +77,12 @@ Die Daten zu Anzahl und Typ der Poliovirusisolate aus Abwasserproben sind nach f
 #### Variablen und Variablenausprägungen  
 
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Polioviren_im_Abwasser", "lang": "de"} -->
+
+Die Datei [Polioviren_im_Abwasser.csv](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Polioviren_im_Abwasser.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/frictionless_data_schema_Polioviren_im_Abwasser.json) hinterlegt:
+> [frictionless_data_schema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/frictionless_data_schema_Polioviren_im_Abwasser.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable     | Typ     | Ausprägungen                                                                                                        | Beschreibung                                                     |
 |:-------------|:--------|:--------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
 | Datum        | date    | Format: `YYYY-Www`                                                                                                  | Kalenderwoche der Probenentnahme nach ISO-8601                   |
@@ -85,11 +91,14 @@ Die Daten zu Anzahl und Typ der Poliovirusisolate aus Abwasserproben sind nach f
 | Virusisolate | integer | Werte: ≥0                                                                                                           | Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
 | Virus_typ    | string  | Werte: `Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1`<br>Fehlende Werte: `NA` | Zugeordneter Stamm und Typ der identifizierten Polioviren        |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_Polioviren_im_Abwasser.json`](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/frictionless_data_schema_Polioviren_im_Abwasser.json).
+
 
 
 ### Bericht zum Pilotprojekt „PIA – Polioviren im Abwasser“
