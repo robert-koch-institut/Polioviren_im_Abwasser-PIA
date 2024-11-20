@@ -76,7 +76,6 @@ Die Daten zu Anzahl und Typ der Poliovirusisolate aus Abwasserproben sind nach f
 
 #### Variablen und Variablenausprägungen  
 
-
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Polioviren_im_Abwasser", "lang": "de"} -->
 
 Die Datei [Polioviren_im_Abwasser.csv](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Polioviren_im_Abwasser.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/frictionless_data_schema_Polioviren_im_Abwasser.json) hinterlegt:
@@ -94,11 +93,6 @@ Die Datei [Polioviren_im_Abwasser.csv](https://github.com/robert-koch-institut/P
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-
-
-
-
-
 
 
 ### Bericht zum Pilotprojekt „PIA – Polioviren im Abwasser“
