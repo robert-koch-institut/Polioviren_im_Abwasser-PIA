@@ -78,8 +78,8 @@ Die Daten zu Anzahl und Typ der Poliovirusisolate aus Abwasserproben sind nach f
 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Polioviren_im_Abwasser", "lang": "de"} -->
 
-Die Datei [Polioviren_im_Abwasser.csv](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Polioviren_im_Abwasser.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/frictionless_data_schema_Polioviren_im_Abwasser.json) hinterlegt:
-> [frictionless_data_schema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/frictionless_data_schema_Polioviren_im_Abwasser.json)
+Die Datei [Polioviren_im_Abwasser.csv](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Polioviren_im_Abwasser.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/tableschema_Polioviren_im_Abwasser.json) hinterlegt:
+> [tableschema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/tableschema_Polioviren_im_Abwasser.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable     | Typ     | Ausprägungen                                                                                                        | Beschreibung                                                     |
