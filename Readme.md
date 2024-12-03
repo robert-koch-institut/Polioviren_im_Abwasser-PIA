@@ -87,7 +87,7 @@ Die Datei [Polioviren_im_Abwasser.csv](https://github.com/robert-koch-institut/P
 | Datum        | date    | Format: `YYYY-Www`                                                                                                  | Kalenderwoche der Probenentnahme nach ISO-8601                   |
 | Klaerwerk_id | string  |                                                                                                                     | Pseudonym des Klärwerks der Probenentnahme                       |
 | Proben_id    | string  |                                                                                                                     | Eindeutige Identifikationsnummer der Abwasserproben              |
-| Virusisolate | integer | Werte: ≥0                                                                                                           | Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
+| Virusisolate | integer | Werte: `≥0`                                                                                                         | Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
 | Virus_typ    | string  | Werte: `Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1`<br>Fehlende Werte: `NA` | Zugeordneter Stamm und Typ der identifizierten Polioviren        |
 
 <!-- DATA_SCHEMA_TABLE_END -->
