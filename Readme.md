@@ -76,14 +76,24 @@ Die Daten zu Anzahl und Typ der Poliovirusisolate aus Abwasserproben sind nach f
 
 #### Variablen und Variablenausprägungen  
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Polioviren_im_Abwasser", "lang": "de"} -->
 
-| Variable | Typ | Ausprägungen | Beschreibung |
-| - | - | - | - |
-| Datum |Datum|`jjjj-Www`| Kalenderwoche der Probenentnahme nach ISO-8601 |
-| Klaerwerk_id |Text||Pseudonym des Klärwerks der Probenentnahme|
-| Proben_id|Text||Eindeutige Identifikationsnummer der Abwasserproben|
-|Virusisolate|Natürliche Zahl|`≥0`|Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
-| Virus_typ|Text|`Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1` |Zugeordneter Stamm und Typ der identifizierten Polioviren|
+Die Datei [Polioviren_im_Abwasser.csv](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Polioviren_im_Abwasser.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/tableschema_Polioviren_im_Abwasser.json) hinterlegt:
+> [tableschema_Polioviren_im_Abwasser.json](https://github.com/robert-koch-institut/Polioviren_im_Abwasser-PIA/blob/main/Metadaten/schemas/tableschema_Polioviren_im_Abwasser.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
+| Variable     | Typ     | Ausprägungen                                                                                                        | Beschreibung                                                     |
+|:-------------|:--------|:--------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
+| Datum        | date    | Format: `YYYY-Www`                                                                                                  | Kalenderwoche der Probenentnahme nach ISO-8601                   |
+| Klaerwerk_id | string  |                                                                                                                     | Pseudonym des Klärwerks der Probenentnahme                       |
+| Proben_id    | string  |                                                                                                                     | Eindeutige Identifikationsnummer der Abwasserproben              |
+| Virusisolate | integer | Werte: `≥0`                                                                                                         | Anzahl der kultivierten Poliovirusisolate aus den Abwasserproben |
+| Virus_typ    | string  | Werte: `Sabin_1-like`, `Sabin_2-like`, `Sabin_3-like`, `VDPV-1`, `VDPV-2`, `VDPV-3`, `WPV1`<br>Fehlende Werte: `NA` | Zugeordneter Stamm und Typ der identifizierten Polioviren        |
+
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
+
 
 ### Bericht zum Pilotprojekt „PIA – Polioviren im Abwasser“
 
