@@ -15,8 +15,9 @@ Wörlitzer Platz 1
 ---
 
 **Zitieren**  
-Robert Koch-Institut und Umweltbundesamt (2023): Polioviren im Abwasser - PIA, Berlin: Zenodo. [DOI: 10.5281/zenodo.8036435](https://doi.org/10.5281/zenodo.8036435)  
-
+<!-- CITATION_START: {"citation_style": "apa"} -->
+Robert Koch-Institut, & Umweltbundesamt. (2023). Polioviren im Abwasser - PIA [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8036435](https://doi.org/10.5281/zenodo.8036435)
+<!-- CITATION_END -->
 
 ## Einleitung
 
