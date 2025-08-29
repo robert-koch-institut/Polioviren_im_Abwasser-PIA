@@ -1,23 +1,50 @@
-Datensatzdokumentation
+<!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation  
 # Polioviren im Abwasser - PIA
 
-[**Robert Koch-Institut | RKI**](https://rki.de)  
-**Fachgebiet 15 | Virale Gastroenteritis- und Hepatitiserreger und Enteroviren**  
-Seestraße 10  
-13353 Berlin  
+<br> 
+<br> 
+<br> 
 
+[**Robert Koch-Institut**](https://www.rki.de/), & **Umweltbundesamt**
 
-[**Umweltbundesamt | UBA**](https://www.umweltbundesamt.de)  
-**Fachgebiet II 1.4 | Mikrobiologische Risiken**  
-Wörlitzer Platz 1  
-06844 Dessau-Roßlau  
+<br> 
 
----
+**Beitragende**   
+[Fachgebiet 15](https://www.rki.de/fg15)&sup1;, & Fachgebiet II 1.4&sup2;
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/)  
+&emsp;&emsp;&sup2; [Umweltbundesamt](https://www.umweltbundesamt.de/)
+
+<br> 
 
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
 Robert Koch-Institut, & Umweltbundesamt. (2023). Polioviren im Abwasser - PIA [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8036435](https://doi.org/10.5281/zenodo.8036435)
-<!-- CITATION_END -->
+
+<br>
+
+
+**Zusammenfassung**    
+Das Pilotprojekt "Polioviren im Abwasser – PIA" wurde seit Mai 2021 vom Robert Koch-Institut und dem Umweltbundesamt durchgeführt. Ziel war die Etablierung eines ergänzenden, abwasserbasierten Überwachungssystems zur Unterstützung der Polioeradikation und der Früherkennung zirkulierender Polioviren. Dazu wurden Abwasserproben aus mehreren Kläranlagen einer deutschen Großstadt auf Polioviren inklusive Sequenzierung und Typisierung untersucht. Der Datensatz dokumentiert Anzahl, Typ und Herkunft der Isolate. Die Ergebnisse bestätigen die Machbarkeit und den Mehrwert der Abwassersurveillance als ergänzendes Frühwarnsystem für die öffentliche Gesundheit im Rahmen der globalen Polioeradikationsstrategie.
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Einleitung](#einleitung)
+  - [Datensatz und Entstehungskontext](#datensatz-und-entstehungskontext)
+  - [Datenerhebung und Datenauswertung](#datenerhebung-und-datenauswertung)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
+
 
 ## Einleitung
 
@@ -39,7 +66,7 @@ In einem aktuell laufenden, vom BMG-geförderten, Pilotprojekt „PIA - Poliovir
 
 Im vom BMG-geförderten, Pilotprojekt „PIA - Polioviren im Abwasser“ untersucht das Nationalen Referenzzentrum für Poliomyelitis und Enteroviren (NRZ PE) zusammen mit dem Umweltbundesamt (UBA) Abwasserproben aus Deutschland auf Polioviren.  Im Datensatz "Polioviren im Abwasser - PIA" werden Daten des Pilotprojekts als Open Data bereitgestellt. Die Erhebung und Aufbereitung der Proben erfolgt durch den Fachbereich Mikrobiologische Risiken des Umweltbundesamts. Die Analyse und Datenauswertung der Proben erfolgt durch das Fachgebiet 15 | Virale Gastroenteritis- und Hepatitiserreger und Enteroviren des Robert Koch-Instituts (RKI). Fragen zu den Daten des Projekts können das Nationales Referenzzentrum für Poliomyelitis und Enteroviren unter <polio@rki.de> gestellt werden.  
 
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-) Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](<https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html>). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-) Daten erfolgen durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](<www.rki.de/mf4>). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.
 
 ## Datenerhebung und Datenauswertung  
 ### Probennahme und -aufbereitung  
